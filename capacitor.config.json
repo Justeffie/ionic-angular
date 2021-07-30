@@ -1,0 +1,7 @@
+{
+  "appId": "com.android.recipes",
+  "appName": "ionic-angular",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
